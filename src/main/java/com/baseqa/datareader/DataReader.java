@@ -8,5 +8,5 @@ import java.util.List;
 
 public interface DataReader {
 
-    public List<HashMap<String, Object>> readFile(String filePath) throws IOException, URISyntaxException;
+    List<HashMap<String, Object>> readFile(String filePath) throws IOException, URISyntaxException;
 }

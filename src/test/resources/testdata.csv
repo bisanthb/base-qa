@@ -1,3 +1,5 @@
 testcase, flatNo, street, city, state, pin
 signup,111,hsr,bangalore,karnataka,87878
 purchase,112,palayam, trivandrum,kerala,123456
+signup2,111,hsr,bangalore,karnataka,87878
+purchase3,112,palayam, trivandrum,kerala,123456
